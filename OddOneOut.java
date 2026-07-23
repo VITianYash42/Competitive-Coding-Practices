@@ -1,6 +1,5 @@
                                         // 1915A - Odd One Out  //  
-
-package Solutions;                  
+                 
 import java.util.Scanner;
  
 public class OddOneOut {

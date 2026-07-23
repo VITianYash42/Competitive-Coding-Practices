@@ -1,4 +1,5 @@
-package Solutions;
+                                                       // 1742A - Sum //
+
 import java.util.*;
 
 public class Sum {

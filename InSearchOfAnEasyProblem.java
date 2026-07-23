@@ -1,6 +1,5 @@
-                        // 1030A - In Search Of an Easy Problem //
+                                             // 1030A - In Search Of an Easy Problem //
 
-package Solutions;
 import java.util.*;
 
 public class InSearchOfAnEasyProblem {

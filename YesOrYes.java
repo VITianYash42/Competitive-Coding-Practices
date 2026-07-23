@@ -1,6 +1,5 @@
                                      // 1703A - YES or YES //
 
-package Solutions;
 import java.util.*;
 
 public class YesOrYes {
